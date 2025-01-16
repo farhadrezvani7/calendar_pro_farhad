@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Show calendar month by season
+
 ## 0.0.3
 
 - Date output was provided in three separate formats
