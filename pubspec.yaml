@@ -1,6 +1,6 @@
 name: calendar_pro_farhad
 description: "A modern and accurate calendar for Flutter that supports both Jalali (Solar) and Gregorian date systems with a minimal design and diverse styles."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/farhadrezvani7/calendar_pro_farhad
 
 environment:
